@@ -57,7 +57,7 @@ Caso tenha o microcontrolador Atmega328p (opcional)
 #### Procedimento para obter o funcionamento a partir da placa desenvolvida (opcional)
 
 1. a partir do seu gravador AVR grave o arquivo de codigo fonte 
-2. ligue aos terminais da placa o aquecedor e alimente ele com até 12v
+2. ligue aos terminais da placa o aquecedor
 
 ### Link no Youtube explicando o funcionamento do algorítimo e a simulação
 
