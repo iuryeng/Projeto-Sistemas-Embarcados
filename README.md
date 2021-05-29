@@ -35,7 +35,7 @@ Para obter um funcionamento por Simulação
 * Arduino IDE versão arduino 1.8.5
 * Proteus 8.8 (Caso queira simular o projeto no Proteus)
 * Eagle 
-* ler a documentação explicativa de funcionamento 
+* ler o procedimento para simulação
 
 Caso tenha o microcontrolador Atmega328p (opcional)
 
