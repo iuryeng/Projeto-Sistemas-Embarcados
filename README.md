@@ -62,7 +62,7 @@ Caso tenha o microcontrolador Atmega328p (opcional)
 ### Link no Youtube explicando o funcionamento do algorítimo e a simulação
 
 1. funcionamento: https://www.youtube.com/watch?v=PiqRUjS0RfQ
-2. simulação: https://www.youtube.com/watch?v=45w_CI1vRk8
+2. simulação: https://www.youtube.com/watch?v=kmhYGBX6VA8
 
 
 
